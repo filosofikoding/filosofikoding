@@ -1,0 +1,2 @@
+# filosofikoding
+Learn programming
